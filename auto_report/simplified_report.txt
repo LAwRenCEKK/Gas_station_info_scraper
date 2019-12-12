@@ -1,0 +1,21 @@
+Current time is 2019-08-14 15:08:40
+From 2019-08-14 14:00:00 to 2019-08-14 15:00:00, there are 79 stations providing price information
+From 2019-08-14 13:00:00 to 2019-08-14 14:00:00, there are 79 stations providing price information
+From 2019-08-14 12:00:00 to 2019-08-14 13:00:00, there are 79 stations providing price information
+From 2019-08-14 11:00:00 to 2019-08-14 12:00:00, there are 79 stations providing price information
+From 2019-08-14 10:00:00 to 2019-08-14 11:00:00, there are 79 stations providing price information
+From 2019-08-14 09:00:00 to 2019-08-14 10:00:00, there are 79 stations providing price information
+From 2019-08-14 08:00:00 to 2019-08-14 09:00:00, there are 79 stations providing price information
+From 2019-08-14 07:00:00 to 2019-08-14 08:00:00, there are 79 stations providing price information
+There is no exception
+
+
+Live Popular time information:
+From 2019-08-14 14:00:00 to 2019-08-14 15:00:00, there are 76 data items saved into the database table
+From 2019-08-14 13:00:00 to 2019-08-14 14:00:00, there are 74 data items saved into the database table
+From 2019-08-14 12:00:00 to 2019-08-14 13:00:00, there are 75 data items saved into the database table
+From 2019-08-14 11:00:00 to 2019-08-14 12:00:00, there are 73 data items saved into the database table
+From 2019-08-14 10:00:00 to 2019-08-14 11:00:00, there are 77 data items saved into the database table
+From 2019-08-14 09:00:00 to 2019-08-14 10:00:00, there are 75 data items saved into the database table
+From 2019-08-14 08:00:00 to 2019-08-14 09:00:00, there are 73 data items saved into the database table
+From 2019-08-14 07:00:00 to 2019-08-14 08:00:00, there are 74 data items saved into the database table
